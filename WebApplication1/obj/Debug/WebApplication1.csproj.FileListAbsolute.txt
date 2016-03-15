@@ -1,0 +1,357 @@
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Owin.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\Users\João Minhós\Documents\Visual Studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\WebApplication1.dll.config
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\WebApplication1.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\WebApplication1.pdb
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Antlr3.Runtime.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\EntityFramework.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Newtonsoft.Json.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Owin.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\System.Web.Optimization.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\System.Web.Providers.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\WebGrease.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\System.Web.Optimization.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Newtonsoft.Json.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\EntityFramework.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\obj\Debug\WebApplication1.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\WebApplication1.dll.config
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\WebApplication1.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\WebApplication1.pdb
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Antlr3.Runtime.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\EntityFramework.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Newtonsoft.Json.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Owin.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\System.Web.Optimization.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\System.Web.Providers.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\WebGrease.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\System.Web.Optimization.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Newtonsoft.Json.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\EntityFramework.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\obj\Debug\WebApplication1.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_Abade\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\WebApplication1.dll.config
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\WebApplication1.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\WebApplication1.pdb
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Antlr3.Runtime.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\EntityFramework.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Newtonsoft.Json.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Owin.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\System.Web.Optimization.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\System.Web.Providers.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\WebGrease.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\System.Web.Optimization.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Newtonsoft.Json.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\EntityFramework.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\obj\Debug\WebApplication1.dll
+E:\escola\ECT_5ano_1semestre\EDC\Pratica\PA3\PA3_com_BUG\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\WebApplication1.dll.config
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\WebApplication1.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\WebApplication1.pdb
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\EntityFramework.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Owin.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\System.Web.Optimization.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\System.Web.Providers.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\WebGrease.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\System.Web.Optimization.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\EntityFramework.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\EDC_abade\EDC_abade\Pratica\PA3\PA3\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\WebApplication1.dll.config
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\WebApplication1.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\WebApplication1.pdb
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\EntityFramework.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Owin.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\System.Web.Optimization.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\System.Web.Providers.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\WebGrease.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\System.Web.Optimization.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\EntityFramework.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Documentos\Dropbox\UNIVERSIDADE\4Ano\4AnoMeu\EDC\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\WebApplication1.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\EntityFramework.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Owin.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\WebGrease.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\EntityFramework.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Gabriel Vieira\Dropbox\UA\4ano\EDC\pratica\TrabalhosEDC  Tomas&Gabriel\EDC2015-Trabalho3\WebApplication1\obj\Debug\WebApplication1.pdb

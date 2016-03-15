@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+  <atom:link href="http://a-bola.webnode.pt/rss/all.xml" rel="self" type="application/rss+xml"/>
+  <title>
+  <![CDATA[ a-bola.webnode.pt ]]>
+  </title>
+  <link>http://a-bola.webnode.pt/archive/news/</link>
+  <description/>
+  <language>pt</language>
+  <pubDate>Thu, 13 Dec 2012 17:13:00 +0100</pubDate>
+  <lastBuildDate>Thu, 13 Dec 2012 17:13:00 +0100</lastBuildDate>
+  <category>
+  <![CDATA[ Notícias ]]>
+  </category>
+  <category>
+  <![CDATA[ Calendário de Eventos ]]>
+  </category>
+  <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <generator>Webnode</generator>
+  <item>
+    <title>...</title>
+    <link>http://a-bola.webnode.pt/news/futebol/</link>
+    <description>
+      <![CDATA[
+      O futebol é um desporto muito conhecido que tem jogadores de alto profissionalismo mas so em algumas equipas.
+      ]]>
+    </description>
+    <pubDate>Thu, 13 Dec 2012 17:13:00 +0100</pubDate>
+    <guid isPermaLink="true">http://a-bola.webnode.pt/news/futebol/</guid>
+    <category>Notícias</category>
+  </item>
+  <item>
+    <title>
+    <![CDATA[ Nota aos visitantes ]]>
+    </title>
+    <link>http://a-bola.webnode.pt/news/nota-aos-visitantes/</link>
+    <description>
+      <![CDATA[
+      Mantenha os seus visitantes informados quanto às novidades e eventos, actualizando regularmente a sua página. Precisa manter a sua página actualizada, para que os visitantes a visitem com regularidade. Os feeds RSS podem ser utilizados para divulgar novos artigos directamente aos seus leitores.
+      ]]>
+    </description>
+    <pubDate>Thu, 06 Dec 2012 21:06:47 +0100</pubDate>
+    <guid isPermaLink="true">http://a-bola.webnode.pt/news/nota-aos-visitantes/</guid>
+    <category>Notícias</category>
+  </item>
+  <item>
+    <title>
+      <![CDATA[ Site aberto ao público ]]>
+    </title>
+    <link>
+      http://a-bola.webnode.pt/news/site-aberto-ao-publico/
+    </link>
+    <description>
+      <![CDATA[
+      A nossa nova página de Internet foi lançada hoje. Conte aos seus visitantes porquê criou este site e como esta página pode beneficia-los. Descreva os seus objectivos e as vantagens deste projecto. Tente de uma forma breve dar razões aos seus visitantes para que voltem à sua página.
+      ]]>
+    </description>
+    <pubDate>Thu, 06 Dec 2012 21:05:47 +0100</pubDate>
+    <guid isPermaLink="true">
+      http://a-bola.webnode.pt/news/site-aberto-ao-publico/
+    </guid>
+    <category>Notícias</category>
+  </item>
+  <item>
+    <title>
+      <![CDATA[ Novo evento ]]>
+    </title>
+    <link>http://a-bola.webnode.pt/news/novo-evento/</link>
+    <description>
+      <![CDATA[
+      Este é um exemplo da descrição de um evento. Esta descrição pode ser editada ao seu gosto ou o evento removido.
+      ]]>
+    </description>
+    <pubDate>Thu, 06 Dec 2012 21:05:47 +0100</pubDate>
+    <guid isPermaLink="true">http://a-bola.webnode.pt/news/novo-evento/</guid>
+    <category>Calendário de Eventos</category>
+   </item>
+ </channel>
+</rss>

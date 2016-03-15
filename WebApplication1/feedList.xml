@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feedList>
+  <feed url="http://feeds.feedburner.com/PublicoRSS?format=xml" description="Jornal Público">
+  </feed>
+  <feed url="http://economico.sapo.pt/rss/ultimas.html" description="Diário Económico">
+  </feed>
+  <feed description="Expresso - emprego" url="http://expressoemprego.pt/rss/ultimas-ofertas" />
+  <feed description="Jornal de Negócios" url="http://www.jornaldenegocios.pt/funcionalidades/Rss.aspx" />
+  <feed description="JN" url=" http://feeds.jn.pt/JN-Destaques" />
+</feedList>
